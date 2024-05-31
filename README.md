@@ -9,6 +9,9 @@
 
 RainPrediction is a weather forecasting application designed to predict the likelihood of rain in your area. Using state-of-the-art machine learning models and meteorological data, the app provides accurate and timely rain forecasts, helping users plan their activities and stay prepared for adverse weather conditions.
 
+https://github.com/TechWithAkash/RainPredictionApp/assets/134140640/f7d94f0e-54e0-4c9a-bdd5-cc8e3dcc41ab
+
+
 ## Features
 
 - **Accurate Rain Forecasts:** Get precise predictions on the probability of rain in your area.
