@@ -1,8 +1,9 @@
-Certainly! Below is a template for a README file for a RainPrediction app:
 
----
+
 
 # RainCast App 🌦️🌦️⛈️
+
+---
 
 ## Overview
 
