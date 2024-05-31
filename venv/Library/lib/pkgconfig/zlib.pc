@@ -1,0 +1,13 @@
+prefix=C:/AKASH/Data Science/ML Project/AlgerianForestPredictionAPP/venv/Library
+exec_prefix=C:/AKASH/Data Science/ML Project/AlgerianForestPredictionAPP/venv/Library
+libdir=C:/AKASH/Data Science/ML Project/AlgerianForestPredictionAPP/venv/Library/lib
+sharedlibdir=C:/AKASH/Data Science/ML Project/AlgerianForestPredictionAPP/venv/Library/lib
+includedir=C:/AKASH/Data Science/ML Project/AlgerianForestPredictionAPP/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
