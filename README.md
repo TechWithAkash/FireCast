@@ -1,6 +1,6 @@
 
 
-# FireCast
+# FireCast 🔥
 
 FireCast is a web application designed to provide accurate predictions for forest fire occurrences in the Begai region of Algeria. Leveraging the first Algerian forest fires dataset, FireCast employs machine learning algorithms to forecast forest fire occurrences based on meteorological observations and Fire Weather Index (FWI) system components.
 
@@ -21,7 +21,7 @@ The dataset was initially compiled in 2018 and was first contributed to the UCI 
 
 ## Usage
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone (https://github.com/TechWithAkash/FireCast.git)`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Flask application: `python app.py`
 4. Open your web browser and go to `http://localhost:5001` to access the application.
