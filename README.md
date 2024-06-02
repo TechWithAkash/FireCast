@@ -12,6 +12,10 @@ Given the scarcity of publicly available datasets on forest fire occurrences in 
 
 The dataset was initially compiled in 2018 and was first contributed to the UCI online repository in October 2019.
 
+## Demo Video
+https://github.com/TechWithAkash/FireCast/assets/134140640/4e383083-0547-4e45-a668-f35fa27867ea
+
+
 ## Features
 
 - **FWI Prediction**: Users can input daily meteorological observations, including temperature, relative humidity, wind speed, FFMC, DMC, ISI, Classes, and Region, to predict the Fire Weather Index (FWI) for the region.
