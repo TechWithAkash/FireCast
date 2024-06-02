@@ -1,6 +1,4 @@
-Certainly! Here's the updated README file with the project renamed to FireCast and some plotting images/graphs added for a more attractive appearance:
 
----
 
 # FireCast
 
