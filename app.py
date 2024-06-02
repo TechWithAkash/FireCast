@@ -41,7 +41,14 @@ def predict_datapoint():
         new_data_scaled=standard_scaler.transform([[Temperature,RH,Ws,Rain,FFMC,DMC,ISI,Classes,Region]])
         result=ridge_model.predict(new_data_scaled)
 
-        return render_template('predict.html',result=result[0])
+        # Determine recommendation based on prediction result
+        recommendation = "It's safe to stay." if result[0] < 50 else "It's better to evacuate."
+
+        return jsonify(result=f"{result[0]}%", recommendation=recommendation)
+
+        # return render_template('predict.html',result=result[0])
+        # return jsonify(result=f"{result[0]}%")
+
 
     else:
         return render_template('predict.html')
